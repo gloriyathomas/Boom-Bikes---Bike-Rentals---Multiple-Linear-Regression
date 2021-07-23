@@ -1,4 +1,4 @@
-# Boom Bikes-Bike Rental Service - Multiple-Linear-Regression
+# Boom Bikes-Bike Rental Prediction - Multiple-Linear-Regression
 
 Build a multiple linear regression model for the prediction of demand for shared bikes  based on environmental and seasonal factors
 
